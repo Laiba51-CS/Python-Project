@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ala.png</file>
+    <file>add1.ico</file>
+    <file>ala2.png</file>
+    <file>ALAlogo.png</file>
+  </qresource>
+</RCC>
